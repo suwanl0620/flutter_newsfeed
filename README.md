@@ -1,12 +1,16 @@
 # flutter_newsfeed
-Basic newsfeed app using Flutter and Firebase
 
-RUNNING APP
-- I was not able to get the app running on my machine, it is likely due to a set-up error with my Flutter environment or authentication token with Firebase, I am still trying to pinpoint the root cause of the issue.
+A new Flutter project.
 
-DESIGN CHOICES
-- Design choices in regards to proportion was largely from tutorials on Youtube as well as suggestions from Copilot
-    - Links:
-      - https://www.youtube.com/watch?v=_sf8-RwkcR8
-      - https://www.youtube.com/watch?v=zohXXZBUVYI
-- Color choice of warm, light orange palette was made based on knowledge that it is the most inviting color, which makes sense for a social media app
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
